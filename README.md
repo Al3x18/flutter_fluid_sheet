@@ -5,9 +5,9 @@ A fluid, iOS-style bottom sheet for Flutter with buttery-smooth animations that 
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/Simulator_Screenshot_1.png" width="250" alt="Initial state" />
-  <img src="assets/screenshots/Simulator_Screenshot_2.png" width="250" alt="Expanded state" />
-  <img src="assets/screenshots/Simulator_Screenshot_3.png" width="250" alt="Full screen" />
+  <img src="https://raw.githubusercontent.com/Al3x18/flutter_fluid_sheet/main/assets/screenshots/Simulator_Screenshot_1.png" width="250" alt="Initial state" />
+  <img src="https://raw.githubusercontent.com/Al3x18/flutter_fluid_sheet/main/assets/screenshots/Simulator_Screenshot_2.png" width="250" alt="Expanded state" />
+  <img src="https://raw.githubusercontent.com/Al3x18/flutter_fluid_sheet/main/assets/screenshots/Simulator_Screenshot_3.png" width="250" alt="Full screen" />
 </p>
 
 ## Features
