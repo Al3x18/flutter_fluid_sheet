@@ -1,3 +1,8 @@
+## 0.1.1
+
+* Fixed README screenshot URLs to display correctly on pub.dev
+* Updated documentation with proper GitHub raw image links
+
 ## 0.1.0
 
 * Initial release
@@ -8,4 +13,3 @@
 * Optional safe area support for notches and dynamic islands
 * Built-in scroll handling with BouncingScrollPhysics
 * Support for all Flutter platforms (iOS, Android, Web, macOS, Windows, Linux)
-
