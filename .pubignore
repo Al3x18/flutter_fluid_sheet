@@ -1,6 +1,7 @@
 # Exclude example files
 lib/main.dart
 lib/test_data/
+example/
 
 # Exclude platform-specific files
 android/
