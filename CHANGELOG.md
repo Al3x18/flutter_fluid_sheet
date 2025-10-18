@@ -1,3 +1,11 @@
+## 0.1.2
+
+* Improved package structure and organization
+* Moved example files to dedicated `example/` directory
+* Updated package to include only necessary files in publication
+* Added `.pubignore` to exclude development files from package
+* Cleaner package distribution with reduced file size
+
 ## 0.1.1
 
 * Fixed README screenshot URLs to display correctly on pub.dev

@@ -2,8 +2,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:fluid_sheet/fluid_sheet.dart';
-import 'package:fluid_sheet/test_data/race_details_data.dart';
-import 'package:fluid_sheet/test_data/example_content.dart';
+import 'test_data/race_details_data.dart';
+import 'test_data/example_content.dart';
 
 void main() {
   runApp(const MyApp());

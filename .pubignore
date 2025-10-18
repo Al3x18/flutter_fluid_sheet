@@ -1,0 +1,25 @@
+# Exclude example files
+lib/main.dart
+lib/test_data/
+
+# Exclude platform-specific files
+android/
+ios/
+web/
+windows/
+linux/
+macos/
+
+# Exclude build files
+build/
+
+# Exclude example assets
+assets/screenshots/
+
+# Exclude IDE files
+.vscode/
+.idea/
+*.iml
+
+# Exclude other files
+analysis_options.yaml
